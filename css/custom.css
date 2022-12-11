@@ -1,1 +1,7 @@
 /* your styles go here */
+
+#home_page p {
+  margin: 0;
+  padding:0;
+  line-height: 1 em;
+}
