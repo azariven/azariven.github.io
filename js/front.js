@@ -128,7 +128,7 @@ function map() {
                 icon: icon
             }).addTo(map);
 
-            marker.bindPopup("<div class='p-4'><h5>Info Window Content</h5><p> Yasheng Huang @ MIT Sloan School of Management</p></div>", {
+            marker.bindPopup("<div class='p-4'><h5>Info Window Content</h5><p> Zhuchang Zhan @ Apple Data Science</p></div>", {
                 minwidth: 200,
                 maxWidth: 600,
                 className: 'map-custom-popup'
